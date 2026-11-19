@@ -103,7 +103,7 @@ a:hover {
 .shape {
     width: 100px;
     height: 100px;
-    animation: rotate 3s linear infinite;
+    animation: rotate 1s linear infinite;
 }
 
 @keyframes rotate {
